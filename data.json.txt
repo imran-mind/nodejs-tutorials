@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Titanic",
+    "genres": [
+      "romantic"
+    ],
+    "release_date": "01-01-1990",
+    "producer": "James Cameron",
+    "reviews": [
+      {
+        "name": "Tim",
+        "message": "Good movie"
+      },
+      {
+        "name": "Jone",
+        "message": "Great movie"
+      }
+    ],
+    "rating": 5
+  },
+  {
+    "name": "Grand father",
+    "genres": [
+      "horror","romantic"
+    ],
+    "release_date": "01-01-2000",
+    "producer": "Ricardo",
+    "reviews": [
+      {
+        "name": "David",
+        "message": "Good movie"
+      },
+    {
+        "name": "Kamroon green",
+        "message": "nice movie"
+      }
+    ],
+    "rating": 6
+  },
+  {
+    "name": "Pulp fiction",
+    "genres": [
+      "fiction","science"
+    ],
+    "release_date": "01-01-2023",
+    "producer": "Romeo",
+    "reviews": [
+      {
+        "name": "Ryan",
+        "message": "Good movie"
+      },
+     {
+        "name": "Victor",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 7
+  },
+  {
+    "name": "Citizen Kane ",
+    "genres": [
+      "comedy"
+    ],
+    "release_date": "01-01-2022",
+    "producer": "boby",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 4
+  },
+  {
+    "name": "King of the world",
+    "genres": [
+      "comedy"
+    ],
+    "release_date": "01-01-2020",
+    "producer": "boby",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 8
+  },
+  {
+    "name": "fight club",
+    "genres": [
+      "action"
+    ],
+    "release_date": "01-01-2021",
+    "producer": "boby",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 3
+  },
+  {
+    "name": "Inception",
+    "genres": [
+      "fiction"
+    ],
+    "release_date": "01-01-2021",
+    "producer": "boby",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 2
+  },
+  {
+    "name": "The Matrix",
+    "genres": [
+      "fiction"
+    ],
+    "release_date": "01-01-2019",
+    "producer": "boby",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 1
+  },
+  {
+    "name": "Jawan",
+    "genres": [
+      "action"
+    ],
+    "release_date": "01-01-2023",
+    "producer": "Gauri khan",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 7
+  },
+  {
+    "name": "tubelight",
+    "genres": [
+      "action"
+    ],
+    "release_date": "01-01-2023",
+    "producer": "kabir khan",
+    "reviews": [
+      {
+        "name": "imran",
+        "message": "Good movie"
+      }
+    ],
+    "rating": 3
+  }
+]
